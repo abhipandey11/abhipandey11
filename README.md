@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Abhi+Pandey;Software+Developer;AI+%2F+Machine+Learning+Enthusiast;Building+Scalable+and+Smart+Systems" />
+</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhipandey11/abhipandey11/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
