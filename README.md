@@ -10,6 +10,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhipandey11/abhipandey11/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+---
+
 ## 🚀 About Me
 - 🎓 Computer Science Student  
 - 💻 Aspiring Software Developer  
@@ -44,9 +52,3 @@
   </a>
 </p>
 
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhipandey11/abhipandey11/output/github-contribution-grid-snake-dark.svg" />
-</p>
