@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhipandey11/abhipandey11/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 <!--
 **abhipandey11/abhipandey11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
