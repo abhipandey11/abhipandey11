@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+<h1 align="center">Abhi Pandey</h1>
+<h3 align="center">💻 Software Developer | 🤖 AI & Machine Learning Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Abhi+Pandey;Software+Developer;AI+%2F+Machine+Learning+Enthusiast;Building+Scalable+and+Smart+Systems" />
+  Building scalable applications and intelligent systems
 </p>
 
 
